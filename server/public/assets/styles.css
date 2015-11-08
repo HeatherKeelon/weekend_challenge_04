@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(234, 234, 234);
+    color: black;
+    font-family: 'EB Garamond', serif;
+}
+.message-box {
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    border: 1px solid #9d9d9d;
+    background-color: white;
+}
+
+.submitted-message {
+    font-size: 30px;
+    background-color: white;
+    color: #454545;
+}
+
+.submitted-name {
+    font-size: 16px;
+    background-color: white;
+}
+
+#leftMessages {
+    margin: 40px auto 20px auto;
+    width: 80%;
+}
+
+#message{
+    width: 60%;
+    height: 100px;
+}
+
+#userName {
+    margin-left: 20px;
+}
+
+.title{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: #000000;
+    font-family: "Dancing Script", cursive;
+}
+
+.submit{
+    margin-top: 110px;
+    float: left;
+}
+
+label {
+    font-size: 20px;
+}
